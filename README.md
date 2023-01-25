@@ -15,6 +15,7 @@ To compile the project you need to use a terminal and use :
   
 ### Specifications :  
 This is a side project was made in C with the SDL library, on Windows (comments in French).  
+Made at the start of 2022.
   
 ### Preview (youtube video):  
 [![gamePlay](https://img.youtube.com/vi/kpNnnZj0Hjw/0.jpg)](https://www.youtube.com/watch?v=kpNnnZj0Hjw&ab_channel=L%C3%A9oH) 
